@@ -1,0 +1,12 @@
+﻿  Main.cpp
+Main.cpp(83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Main.cpp(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Main.cpp(100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Main.cpp(116): warning C4018: '<': signed/unsigned mismatch
+Main.cpp(122): warning C4305: '*=': truncation from 'double' to 'float'
+Main.cpp(144): warning C4305: '*=': truncation from 'double' to 'float'
+  Generating code
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MiniGame1.vcxproj -> C:\Users\Bernard\documents\visual studio 2015\Projects\MiniGame1\Release\MiniGame1.exe
+  MiniGame1.vcxproj -> C:\Users\Bernard\documents\visual studio 2015\Projects\MiniGame1\Release\MiniGame1.pdb (Full PDB)
